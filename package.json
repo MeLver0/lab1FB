@@ -1,0 +1,9 @@
+{
+  "name": "lab12",
+  "version": "1.0.0",
+  "description": "FB lab1-2",
+  "main": "index.js",
+  "repository": "https://github.com/MeLver0/lab1FB.git",
+  "author": "MeL <a9269649313@gmail.com>",
+  "license": "MIT"
+}
